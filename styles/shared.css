@@ -1,0 +1,25 @@
+body {
+  text-align: center;
+  background-color: azure;
+}
+
+h1 {
+  font-family: "Unbounded", sans-serif;
+  color: aqua;
+}
+
+p {
+  font-family: "Satisfy", sans-serif;
+  color: aqua;
+  font-size: 28px;
+}
+
+a {
+  color: aqua;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: brown;
+}
